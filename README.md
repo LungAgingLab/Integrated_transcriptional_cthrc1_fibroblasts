@@ -1,3 +1,5 @@
+This repository contains code supporting the single-cell transcriptomic analyses presented in:
+
 # Integrated transcriptional and spatial profiling identifies CTHRC1+ fibroblasts as fibrogenic signaling hubs in human lung fibrosis.
 Natalia Vanegas-Avendano<sup>1,†</sup>, Hu Chen<sup>1,2,3,†</sup>, Jack H. Wellmerling<sup>4</sup>, Mahnoor Hamid<sup>1</sup>, Ahmed Ghobashi<sup>1,2,3</sup>, Victor Peters<sup>1</sup>, Chandani Sen<sup>5</sup>, Brenda F. Reader<sup>6</sup>, Konstantin Shilo<sup>7</sup>, Brigitte N. Gomperts<sup>5</sup>, Qin Ma<sup>2,3</sup>, Ana L. Mora<sup>1</sup>, Daniel J. Tschumperlin<sup>4</sup>, Mauricio Rojas<sup>1*</sup>
 
@@ -18,3 +20,18 @@ Natalia Vanegas-Avendano<sup>1,†</sup>, Hu Chen<sup>1,2,3,†</sup>, Jack H. W
 <sup>†</sup>These authors contributed equally   
 
 *Corresponding author: Mauricio.Rojas@osumc.edu 
+
+
+## Repository overview
+
+brief overview of scripting
+
+## Files
+
+* **`Mayo_paper_fibroblast_annotation_validation.ipynb`**
+  Main analysis notebook used to evaluate fibroblast annotations, perform differential-expression comparisons, visualize candidate-marker expression, refine marker signatures, and calculate fibroblast module scores.
+
+* **`Mayo_peer_review_rebuttals.R`**
+  R script used to compare adventitial and inflammatory fibroblast genes in whole lung data and visualizations prepared in response to reviewer comments.
+
+
