@@ -1,4 +1,4 @@
-This repository contains code supporting the single-cell transcriptomic analyses presented in:
+This repository contains code supporting the single-cell and spatial transcriptomic analyses presented in:
 
 # Integrated transcriptional and spatial profiling identifies CTHRC1+ fibroblasts as fibrogenic signaling hubs in human lung fibrosis.
 Natalia Vanegas-Avendano<sup>1,†</sup>, Hu Chen<sup>1,2,3,†</sup>, Jack H. Wellmerling<sup>4</sup>, Mahnoor Hamid<sup>1</sup>, Ahmed Ghobashi<sup>1,2,3</sup>, Victor Peters<sup>1</sup>, Chandani Sen<sup>5</sup>, Brenda F. Reader<sup>6</sup>, Konstantin Shilo<sup>7</sup>, Brigitte N. Gomperts<sup>5</sup>, Qin Ma<sup>2,3</sup>, Ana L. Mora<sup>1</sup>, Daniel J. Tschumperlin<sup>4</sup>, Mauricio Rojas<sup>1*</sup>
