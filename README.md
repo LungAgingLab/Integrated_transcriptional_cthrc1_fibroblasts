@@ -15,15 +15,15 @@ Natalia Vanegas-Avendano<sup>1,†</sup>, Hu Chen<sup>1,2,3,†</sup>, Jack H. W
 
 ## Repository overview
 Code for the fibroblast annotation validation and the adventitial vs. inflammatory fibroblast comparison added during peer review (Supplementary Fig. 1f–h).
-The main analyses (QC, integration, annotation, DGE, CellChat, trajectories, WOT)are in https://github.com/Tigerrr07/IPF-mesenchymal-heterogeneity.
+The main analyses (QC, integration, annotation, DGE, CellChat, trajectories, WOT) are in https://github.com/Tigerrr07/IPF-mesenchymal-heterogeneity.
 
 ## Data
 scRNA-seq data are available from GEO:
-- Lung tissue (age-matched control, IPF upper and lower lobes): GSE283885, GSE331286, GSE331144
+- Lung tissue (age-matched healthy controls, IPF upper and lower lobes): GSE283885, GSE331286, GSE331144
 
 ## Requirements
 - Python 3.10.8, Scanpy 1.11.3 
-- - R 4.5.2, Seurat 5.5.1
+- R 4.5.2, Seurat 5.5.1
 
 ## Files and figure panels
 | File | Purpose | Figure panels |
